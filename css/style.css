@@ -82,7 +82,7 @@ textarea { overflow: auto; }
 
 .slider, #carousel, #carousel > div {
 	width: 980px;
-	height: 350px;
+	height: 250px;
 }
 
 .slider {
